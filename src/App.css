@@ -1,0 +1,16 @@
+.text-color{
+  color: #fff;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(49, 25, 25);
+}
+.my-bg-color{
+ 
+  height: 80vh;
+  
+}
